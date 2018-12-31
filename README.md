@@ -232,8 +232,9 @@ This basically gives you a temporary damage reduction whenever you dodge roll of
 You *can* proc it by dodging through some hands at the start of a new stack, but I don't bother with that as if I'm going to spend endurance on a dodge, I'd rather the dodge be used for the 5th hand tick instead - as that represents avoiding 1/3rd of the damage from the hand stack, while the Stability reduction would only be for 15%.
 
 ##### Alternatives
-If you're running a hammer instead of staff, then the [Devastation][traitline: devastation] line offers [Assassin's Annihilation][trait: assassin's annihilation] which provides some nice sustain as long as you can consistently reach an enemy (presumably Deimos, else I'm not sure why you'd want to bring a hammer otherwise - as the staff is better for personal survivability).  
-If you're doing that, you may as well pick up [Assasin's Presence][trait: assassin's presence] too - though I wouldn't expect it to do much, as you'll probably be too far away from the main group to apply the buff to them for almost the entire encounter.
+If you're finding survival trivially easy and want to trade some of that survivability for extra squad damage, then you can swap your staff for a hammer, and use the [Devastation][traitline: devastation] line for [Assassin's Annihilation][trait: assassin's annihilation]. It provides some nice sustain as long as you can consistently reach an enemy (ideally Deimos).  
+You can also use [Assasin's Presence][trait: assassin's presence] - combining it with [Phase Smash][skill: phase smash] to get close and spread the buff to people (in between stacks of hands, as you don't want to drop one close to people).  
+I wouldn't run the [Devastation][traitline: devastation] line without the hammer, nor would I run the hammer without the [Devastation][traitline: devastation] line. They just go together so well, and nothing else can make much use of either of them individually.
 
 The [Invocation][traitline: invocation] line looks interesting for personal survivability, but I find it underwhelming compared to [Retribution][traitline: retribution].  
 The minor and adept traits are entirely unhelpful, but let's look at some potentially useful options:

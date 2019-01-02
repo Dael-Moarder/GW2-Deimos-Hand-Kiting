@@ -292,8 +292,20 @@ Tips for executing this playstyle comfortably:
 # General Tips
 
 ## Gearing
-Exotic Magi trinkets can be obtained for just some karma at the Cathedral of XXXXXXXXXXXXXXXXXX
 
+
+### Obtaining Gear
+Before anything else, it's worth making it clear that exotic gear is absolutely perfectly good for hand-kiting as you really don't gain much from trying to min/max a few stat points here and there. (Whether you survive or not won't depend on having 20 extra healing power or whatever, and as I've mentioned before, there isn't much benefit to optimisation as you can't really *kite harder* (at least, not like how a DPS player benefits from optimising because they can just *do more DPS*).)  
+If you want to use ascended stuff because you've got it lying around then by all means feel free to - just don't worry about trying to gear up an ascended set of gear to feel like a 'proper' hand-kiter. That's daft and a huge waste of gold and time.  
+The only exception is for Minstrel gear, as it needs a ton of [Freshwater Pearls][item: freshwater pearl] and they're just way too expensive to be worth crafting Minstrel gear at all. So if you're aiming for Minstrel gear then I recommend trying to avoid crafting it directly if you can, and that is usually about as easy or convenient with ascended as it is with exotic, so skipping straight to ascended there is perfectly reasonable.
+
+The wiki has a handy page that lists practically every way to get each gear stat, and I'm not going to beat it or just repeat it so I'm just gonna mention some keys bits and pieces I found useful, and you can check the full wiki page if you need more specifics.  
+[Equipment Aquisition by Stats][wiki: equipment aquisition by stats]
+
+Exotic Magi gear is generally very easy to obtain, but trinkets can appear awkward - as they're not really craftable and needlessly expensive on the trading post, but they can be easily obtained for karma (42k each, so 252k for a full set of 6) from [Lightbringer Brutefur][npc: lightbringer brutefur] at the [Cathedral of Eternal Radiance][location: cathedral of eternal radiance] in [Malchor's Leap][location: malchor's leap] once the meta event for the temple has been done (basically, just look for the white dome protecting the NPCs - if that's up, you can buy from the karma vendor).  
+Slap some [Crests of the Magi][item: crest of the magi] in them and you'll have a full set of magi trinkets sorted trivially easily and without spending a ton of gold on the trading post.
+
+[wiki: equipment aquisition by stats]: https://wiki.guildwars2.com/wiki/Equipment_acquisition_by_stats
 
 [mechanic: devour]: https://wiki.guildwars2.com/wiki/Devour
 [mechanic: hands]: https://wiki.guildwars2.com/wiki/Soul_Feast
@@ -366,3 +378,11 @@ Exotic Magi trinkets can be obtained for just some karma at the Cathedral of XXX
 [skill: stone signet]: https://wiki.guildwars2.com/wiki/Signet_of_Stone_(active_effect)
 [skill: true nature - dragon]: https://wiki.guildwars2.com/wiki/True_Nature_(dragon)
 [skill: warding rift]: https://wiki.guildwars2.com/wiki/Warding_Rift
+
+[npc: lightbringer brutefur]: https://wiki.guildwars2.com/wiki/Lightbringer_Brutefur
+
+[location: cathedral of eternal radiance]: https://wiki.guildwars2.com/wiki/Cathedral_of_Eternal_Radiance
+[location: malchor's leap]: https://wiki.guildwars2.com/wiki/Malchor%27s_Leap
+
+[item: crest of the magi]: https://wiki.guildwars2.com/wiki/Crest_of_the_Magi
+[item: freshwater pearl]: https://wiki.guildwars2.com/wiki/Freshwater_Pearl

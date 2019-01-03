@@ -312,6 +312,30 @@ Heralds for example, have such strong active heals with [Natural Harmony][skill:
 Soulbeasts on the other hand, are probably easier to play, but have a bit less self-sustain (they have better passive sustain, but Herald's actives are hard to beat - it's why they're the main hand-kiting build), so reducing the incoming damage is more important for them.  
 So of course, the more self-sustain you have, the more damage you can survive, so the less you need to reduce the damage, so the less you'll need toughness. Most hand-kiting builds can use pure Magi with no issues, but some builds definitely find this easier than others, and as you look at builds with lower overall self-healing and damage mitigation, you'll want to consider trying to use high-toughness gear to make your life easier.
 
+### Runes
+Selecting runes depends largely on your build, so for specifics I'd suggest looking at your build's specific breakdown section, but I'll try and give a brief rundown of most rune options.
+
+* [Durability][item: durability rune] - All-round great, these are possibly the single best runes for most builds, as they improve Protection and Regen uptime while giving you much-desired boon duration and plenty of defensive stats which are always nice. If your build doesn't care at all about Protection uptime, or already caps out on it, then these are superfluous, but otherwise they're great and well worth considering.
+* [Water][item: water rune] - Basically an alternative to [Durability][item: durability rune] runes when you're already very close on the amount of Protection uptime you want (it obviously doesn't provide as much, but most builds benefit more from extra healing power than toughness and vitality (usually healing power scales better than toughness - especially when you've got multiple small heals)).
+* [Monk][item: monk rune] - No real reason to use this over [Water][item: water rune] runes except that you can use these on normal healing builds to keep your team alive. Plenty of people kite with these and they still have good relevant stats, so they're never bad - just not quite as good as the alternatives would be.
+* [Defender][item: defender rune] - If your build has some frequent blocks available, these could be great, and some people like them on builds like Herald and Scrapper, but personally I don't see the appeal.  
+(I usually find I'm either using [Warding Rift][skill: warding rift] to block the 4th and 5th ticks of a stack (in which case the first 3 ticks don't do enough damage to justify these runes because my passive heals will patch up that small amount of damage even without the 10% health I'd get from these runes), or I'm blocking [Mind Crush][mechanic: mind crush] (and when I'm doing that I'm usually at full health), so the 10-15% of health I'd get from a 2s or 3s block just doesn't feel like it helps me at the times I'm actually needing it most (mainly after [Mind Crush][mechanic: mind crush] when [Weak Minded][mechanic: weak minded] is draining my health from 100-30%).)  
+You might have more success with it, depending on how you play really. It just wasn't as useful for my playstyle as I'd hoped. (If it had boon duration it might be worth it, but it's so hard for my builds to justify this over [Durability][item: durability rune] or [Water][item: water rune] runes.)
+* [Rebirth][item: rebirth rune] - Gives you a failsafe, and has nice stats, but it's such a small (roughly 4k) barrier that you'll likely die anyway - better to pick a rune that makes your job easier most of the time so you don't get into these panicked situations where you mess up and need this risky lifesaver anyway.
+* [Dwayna][item: dwayna rune] - Buffs your regen, which sounds nice but no build gets enough from their regen to justify this (even Herald doesn't get enough out of this, and it already buffs regen with [Elder's Respite][trait: elder's respite]!).
+* [Grove][item: grove rune] - Huge 50% Protection duration buff, but not mcuh else. The 6th tier bonus is on such a long cooldown that while it's strong (>15s of Protection if you can stand in its AoE the whole time) it's impractical.  
+Most builds won't want this, but it could be used as a replacement for Earth runes on something like a Magi Soulbeast, as Magi lacks boon duration but Soulbeast should have enough Regen application to maintain that permanently anyway, and having 50% more Protection uptime could be enough to maintain the [Rugged Growth][trait: rugged growth] regen. (Haven't tested this myself to be certain though - so you'll want to double-check the math before diving in.)
+* [Flock][item: flock rune] - I used to use [Water][item: water rune] as my primary hand-kiting runes on Herald back before the big Herald and rune reworks - back when Heralds could maintain perma-Protection trivially easily and [Water][item: water rune] runes had this 'do a small AoE heal when you use a heal skill (with a 10s cooldown' bonus.  
+Now that's been split from [Water][item: water rune] runes and [Flock][item: flock rune] don't have any boon duration, I don't recommend these for any build (you'd need to already have all the boon uptime you might want, and have a very short cooldown heal skill, and I don't know of any build that can do that at the moment).
+* [Dolyak][item: dolyak rune] - Thoroughly underwhelming. They heal about 80hps, don't scale off healing power, and it's just not worth it when other runes can give you more boons or healing power (which usually represents more than 80hps).
+* [Herald][item: herald rune] - Fittingly, these can be a useful option for a Herald, as when you move the Ventari tablet regularly you'll give yourself some extra Protection uptime (probably better than [Durability][item: durability rune] runes). Other builds don't run heal skills with short enough cooldowns to justify the use of these over [Durability][item: durability rune] runes though, so beyond Herald I don't think there's a build these are great for.
+* [Earth][item: earth rune] - Overall best in slot for Soulbeasts as their main weaknesses are their reliance on perma-Protection and that the vast majority of their healing is passive (so they have limited options to amp up their heals in periods where things are going awry and they're taking too much damage at once for their passive heals to keep up). This extends their Protection uptime nicely (not as well as [Grove][item: grove rune] runes, but 30% on their key boon is still great) and the 10% incoming heal bonus improves their passive sustain more than anything else would, and this helps reduce the number of situations where they have to use a precious active heal to cover the damage/heal differential.  
+Other builds could use this, but the 10% heal modifier benefits small, frequent heals more than large, infrequent ones (as large heals are much more likely to 'overheal' so the extra 10% is wasted a lot more often than with smaller heals) and few builds have the right balance between really wanting extra Protection uptime and such strong passive heals.
+* [Scrapper][item: scrapper rune] - The 7% damage reduction isn't worth the opportunity cost when excellent alternatives like [Durability][item: durability rune] runes exists.
+* [Sanctuary][item: sanctuary rune] - These are kinda weird and depend very heavily on exactly how you heal yourself and when.  
+Some 'passive' heals don't work (e.g. the Regeneration boon doesn't trigger it) but some do (e.g. [Rapid Regeneration][trait: rapid regeneration] does), but as a general rule of thumb all 'active' heals should trigger it (e.g. [Natural Harmony][skill: natural harmony]).  
+I've not yet tested these, so I can't say whether these are actually worthwhile or not (I plan to get a set and try all the possible heals on these kiting builds and see what does and doesn't proc them and whether they work at full health or not (some traits that proc on self-heals (e.g. [Medical Dispersion Field][trait: medical dispersion field]) can proc while you're at full health and overhealing, while other heals won't proc that same trait unless they're actually healing damage you've taken - I want to know whether these runes have similar quirks with specific heals)).
+
 ### Obtaining Gear
 Before anything else, it's worth making it clear that exotic gear is absolutely perfectly good for hand-kiting as you really don't gain much from trying to min/max a few stat points here and there. (Whether you survive or not won't depend on having 20 extra healing power or whatever, and as I've mentioned before, there isn't much benefit to optimisation as you can't really *kite harder* (at least, not like how a DPS player benefits from optimising because they can just *do more DPS*).)  
 If you want to use ascended stuff because you've got it lying around then by all means feel free to - just don't worry about trying to gear up an ascended set of gear to feel like a 'proper' hand-kiter. That's daft and a huge waste of gold and time.  
@@ -357,10 +381,12 @@ Other stat combinations' trinkets can be cheaply crafted or bought so aren't wor
 [trait: hardened foundation]: https://wiki.guildwars2.com/wiki/Hardened_Foundation
 [trait: hardening persistence]: https://wiki.guildwars2.com/wiki/Hardening_Persistence
 [trait: invoking harmony]: https://wiki.guildwars2.com/wiki/Invoking_Harmony
+[trait: medical dispersion field]: https://wiki.guildwars2.com/wiki/Medical_Dispersion_Field
 [trait: natural abundance]: https://wiki.guildwars2.com/wiki/Natural_Abundance
 [trait: nourishing roots]: https://wiki.guildwars2.com/wiki/Nourishing_Roots
 [trait: planar protection]: https://wiki.guildwars2.com/wiki/Planar_Protection
 [trait: rapid flow]: https://wiki.guildwars2.com/wiki/Rapid_Flow
+[trait: rapid regeneration]: https://wiki.guildwars2.com/wiki/Rapid_Regeneration
 [trait: reinforced potency]: https://wiki.guildwars2.com/wiki/Reinforced_Potency
 [trait: retaliatory evasion]: https://wiki.guildwars2.com/wiki/Retaliatory_Evasion
 [trait: rugged growth]: https://wiki.guildwars2.com/wiki/Rugged_Growth
@@ -413,8 +439,21 @@ Other stat combinations' trinkets can be cheaply crafted or bought so aren't wor
 
 [item: chest of experimental armor]: https://wiki.guildwars2.com/wiki/Chest_of_Experimental_Armor
 [item: crest of the magi]: https://wiki.guildwars2.com/wiki/Crest_of_the_Magi
+[item: defender rune]: https://wiki.guildwars2.com/wiki/Superior_Rune_of_the_Defender
+[item: dolyak rune]: https://wiki.guildwars2.com/wiki/Superior_Rune_of_the_Dolyak
+[item: durability rune]: https://wiki.guildwars2.com/wiki/Superior_Rune_of_Durability
+[item: dwayna rune]: https://wiki.guildwars2.com/wiki/Superior_Rune_of_Dwayna
+[item: earth rune]: https://wiki.guildwars2.com/wiki/Superior_Rune_of_the_Earth
+[item: flock rune]: https://wiki.guildwars2.com/wiki/Superior_Rune_of_the_Flock
 [item: freshwater pearl]: https://wiki.guildwars2.com/wiki/Freshwater_Pearl
+[item: grove rune]: https://wiki.guildwars2.com/wiki/Superior_Rune_of_the_Grove
+[item: herald rune]: https://wiki.guildwars2.com/wiki/Superior_Rune_of_the_Herald
+[item: monk rune]: https://wiki.guildwars2.com/wiki/Superior_Rune_of_the_Monk
+[item: rebirth rune]: https://wiki.guildwars2.com/wiki/Superior_Rune_of_the_Rebirth
+[item: sanctuary rune]: https://wiki.guildwars2.com/wiki/Superior_Rune_of_Sanctuary
+[item: scrapper rune]: https://wiki.guildwars2.com/wiki/Superior_Rune_of_the_Scrapper
 [item: triumphant armor box]: https://wiki.guildwars2.com/wiki/Triumphant_Armor_Box
+[item: water rune]: https://wiki.guildwars2.com/wiki/Superior_Rune_of_the_Water
 [item: winterberry]: https://wiki.guildwars2.com/wiki/Fresh_Winterberry
 
 [collection: envoy armor 1 - experimental armor]: https://wiki.guildwars2.com/wiki/Envoy_Armor_I:_Experimental_Armor

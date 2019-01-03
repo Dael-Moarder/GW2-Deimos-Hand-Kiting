@@ -292,7 +292,25 @@ Tips for executing this playstyle comfortably:
 # General Tips
 
 ## Gearing
+Since Deimos aggros on whoever has the most toughness, and you don't want to be the tank, you'll need to either run little-to-no toughness, or be flexible in how you gear your character.  
+Generally, I'd recommend to start with Magi gear and then work on a set with a lot more toughness (Minstrel, Givers, Cleric, or Nomad). Then you can always have lower toughness than your tank, and once you know how much they have, you can simply swap in as much toughness gear as you can afford in your 'toughness budget' to make your job easier.
 
+### Stat Combinations
+Minstrels is the all-round best stat combination for basically every class and build.  
+All 4 stats are relevant and in the order you benefit from them the most - Healing Power and Toughness as primary stats makes you take less damage and resustain better, then Concentration helps you keep high or permanent uptime on Protection and Regen, and some Vitality gives you some breathing room to make mistakes (playing a build without some Vitality is… exciting when things go sideways).  
+Since it has Toughness as a stat (and a lot of it!) it risks you having too much and becoming the tank, so this is why you should start with Magi and swap in Minstrel pieces from there.
+
+Givers is a good budget replacement for Minstrel, as Vitality is the least important of the stats and you'll likely be combining it with a bunch of Magi gear so you'll get some vitality and extra healing power from that. So Magi with some Givers gear available to swap in is probably the best way to kite on a budget, but if you're looking to min-max then Magi + Minstrel is slightly better.
+
+I don't really recommend Cleric or Nomad stats because they don't have any Concentration, so with Magi and these stats you'll often not have much boon duration on your build so may struggle to maintain perma Regen or meaningful Protection uptime (you don't need Protection to be permanent, but ideally you'll at least want it while you'll be taking heavy damage and more is always better).  
+They're cheaper and easier to obtain than Minstrel and Givers though, so I don't begrudge people using them - I'm just saying that most kiting builds benefit quite a bit from extra boon duration (e.g. Soulbeast really wants perma Protection for its amazing passive heal from [Rugged Growth][trait: rugged growth]).
+
+It's worth thinking about your build and how it works exactly, to work out the relative value of different stat combinations.  
+For example, since Minstrel has so much toughness, and Magi gear does not, a full Minstrel kiter is going to be taking about a third less damage than a Magi one (that's like having another form of Protection with 100% uptime).  
+Most builds have so much self-healing that they don't really need this extra damage reduction, while others have fairly limited self-healing and so rely more on reducing incoming damage to keep below manageable levels.  
+Heralds for example, have such strong active heals with [Natural Harmony][skill: natural harmony] and [Infuse Light][skill: infuse light] and frequent damage-negation with [Warding Rift][skill: warding rift] that their self-sustain is so high they can kite quite comfortably with no extra damage reduction from investing stats in toughness (they still find it easier, but they can get by fine without it).  
+Soulbeasts on the other hand, are probably easier to play, but have a bit less self-sustain (they have better passive sustain, but Herald's actives are hard to beat - it's why they're the main hand-kiting build), so reducing the incoming damage is more important for them.  
+So of course, the more self-sustain you have, the more damage you can survive, so the less you need to reduce the damage, so the less you'll need toughness. Most hand-kiting builds can use pure Magi with no issues, but some builds definitely find this easier than others, and as you look at builds with lower overall self-healing and damage mitigation, you'll want to consider trying to use high-toughness gear to make your life easier.
 
 ### Obtaining Gear
 Before anything else, it's worth making it clear that exotic gear is absolutely perfectly good for hand-kiting as you really don't gain much from trying to min/max a few stat points here and there. (Whether you survive or not won't depend on having 20 extra healing power or whatever, and as I've mentioned before, there isn't much benefit to optimisation as you can't really *kite harder* (at least, not like how a DPS player benefits from optimising because they can just *do more DPS*).)  
@@ -345,6 +363,7 @@ Other stat combinations' trinkets can be cheaply crafted or bought so aren't wor
 [trait: rapid flow]: https://wiki.guildwars2.com/wiki/Rapid_Flow
 [trait: reinforced potency]: https://wiki.guildwars2.com/wiki/Reinforced_Potency
 [trait: retaliatory evasion]: https://wiki.guildwars2.com/wiki/Retaliatory_Evasion
+[trait: rugged growth]: https://wiki.guildwars2.com/wiki/Rugged_Growth
 [trait: serene rejuvenation]: https://wiki.guildwars2.com/wiki/Serene_Rejuvenation
 [trait: shared empowerment]: https://wiki.guildwars2.com/wiki/Shared_Empowerment
 [trait: shining aspects]: https://wiki.guildwars2.com/wiki/Shining_Aspects

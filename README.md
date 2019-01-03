@@ -305,6 +305,14 @@ The wiki has a handy page that lists practically every way to get each gear stat
 Exotic Magi gear is generally very easy to obtain, but trinkets can appear awkward - as they're not really craftable and needlessly expensive on the trading post, but they can be easily obtained for karma (42k each, so 252k for a full set of 6) from [Lightbringer Brutefur][npc: lightbringer brutefur] at the [Cathedral of Eternal Radiance][location: cathedral of eternal radiance] in [Malchor's Leap][location: malchor's leap] once the meta event for the temple has been done (basically, just look for the white dome protecting the NPCs - if that's up, you can buy from the karma vendor).  
 Slap some [Crests of the Magi][item: crest of the magi] in them and you'll have a full set of magi trinkets sorted trivially easily and without spending a ton of gold on the trading post.
 
+If you're working towards a full set of Minstrel gear (that you can swap in/out with your Magi set as desired), I'd recommend using either exotic armour or weapon boxes (e.g. from WvW or PvP reward tracks to get you stuff like [Triumphant Armor Box][item: triumphant armor box]) or waiting to get ascended gear (ideally without needing to craft any Minstrel inscriptions or insignias, such as by getting drops or buying 'Healers' or 'Defenders' stat-selectable gear from raids).
+
+When I geared up my Herald, I used the [box of ascended armour][item: chest of experimental armor] you get from the [first collection for legendary armour][collection: envoy armor 1 - experimental armor] to get a full set of Minstrel armour. The first collection's armour isn't needed to craft the eventual legendary set, so it's just a free whole set you can use on any character for any reason.  
+(i.e. If you'd eventually like to make the *light* legendary armour, you can use the 'experimental' set on a *heavy* class like Harald or *medium* class like Scrapper or Soulbeast and later you'll use the 'refined' armour box to get a *light* set of some kind - which you'll throw into the forge later as precursors to the legendary set (so you'll still have your original 'experimental' set at the end - along with your legendary armour).)
+
+As for Minstrel trinkets, I just got them all via the Living World Season 3 maps with [Winterberries][item: winterberry] and the like, but of course you can use any stat-selectable ascended trinkets you have on hand.  
+Other stat combinations' trinkets can be cheaply crafted or bought so aren't worth getting ascended versions for.
+
 [wiki: equipment aquisition by stats]: https://wiki.guildwars2.com/wiki/Equipment_acquisition_by_stats
 
 [mechanic: devour]: https://wiki.guildwars2.com/wiki/Devour
@@ -384,5 +392,10 @@ Slap some [Crests of the Magi][item: crest of the magi] in them and you'll have 
 [location: cathedral of eternal radiance]: https://wiki.guildwars2.com/wiki/Cathedral_of_Eternal_Radiance
 [location: malchor's leap]: https://wiki.guildwars2.com/wiki/Malchor%27s_Leap
 
+[item: chest of experimental armor]: https://wiki.guildwars2.com/wiki/Chest_of_Experimental_Armor
 [item: crest of the magi]: https://wiki.guildwars2.com/wiki/Crest_of_the_Magi
 [item: freshwater pearl]: https://wiki.guildwars2.com/wiki/Freshwater_Pearl
+[item: triumphant armor box]: https://wiki.guildwars2.com/wiki/Triumphant_Armor_Box
+[item: winterberry]: https://wiki.guildwars2.com/wiki/Fresh_Winterberry
+
+[collection: envoy armor 1 - experimental armor]: https://wiki.guildwars2.com/wiki/Envoy_Armor_I:_Experimental_Armor

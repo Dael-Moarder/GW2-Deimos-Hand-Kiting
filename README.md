@@ -313,6 +313,9 @@ Givers is a good budget replacement for Minstrel, as Vitality is the least impor
 I don't really recommend Cleric or Nomad stats because they don't have any Concentration, so with Magi and these stats you'll often not have much boon duration on your build so may struggle to maintain perma Regen or meaningful Protection uptime (you don't need Protection to be permanent, but ideally you'll at least want it while you'll be taking heavy damage and more is always better).  
 They're cheaper and easier to obtain than Minstrel and Givers though, so I don't begrudge people using them - I'm just saying that most kiting builds benefit quite a bit from extra boon duration (e.g. Soulbeast really wants perma Protection for its amazing passive heal from [Rugged Growth][trait: rugged growth]).
 
+Harrier is something I'll mix in with a lot of Minstrel sometimes when I'm looking for more boon duration but can't increase my toughness further.  
+If you're playing a low toughness build, it's probably better to stick with Magi gear rather than start mixing in Harrier unless you really need specific boon uptimes (like Soulbeast is designed around perma-Protection). Otherwise you'll lack both the damage-reduction of toughness stats, as well as the health buffer of vitality, and it'll be like you're on a razor's edge the whole time - one tiny mistake and you'll go down.
+
 It's worth thinking about your build and how it works exactly, to work out the relative value of different stat combinations.  
 For example, since Minstrel has so much toughness, and Magi gear does not, a full Minstrel kiter is going to be taking about a third less damage than a Magi one (that's like having another form of Protection with 100% uptime).  
 Most builds have so much self-healing that they don't really need this extra damage reduction, while others have fairly limited self-healing and so rely more on reducing incoming damage to keep below manageable levels.  

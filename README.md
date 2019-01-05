@@ -336,6 +336,24 @@ Other builds could use this, but the 10% heal modifier benefits small, frequent 
 Some 'passive' heals don't work (e.g. the Regeneration boon doesn't trigger it) but some do (e.g. [Rapid Regeneration][trait: rapid regeneration] does), but as a general rule of thumb all 'active' heals should trigger it (e.g. [Natural Harmony][skill: natural harmony]).  
 I've not yet tested these, so I can't say whether these are actually worthwhile or not (I plan to get a set and try all the possible heals on these kiting builds and see what does and doesn't proc them and whether they work at full health or not (some traits that proc on self-heals (e.g. [Medical Dispersion Field][trait: medical dispersion field]) can proc while you're at full health and overhealing, while other heals won't proc that same trait unless they're actually healing damage you've taken - I want to know whether these runes have similar quirks with specific heals)).
 
+### Sigils
+Since sigils are generally offensive in nature, there's not many that can help you, and those that do often depend heavily on the build and how you play it. (For example 'on hit' or 'on crit' sigils can either be great or useless from one build and player to the next.)
+
+* [Concentration][item: concentration sigil] - The overall best sigil for kiters in my opinion. I struggle to think of a build that won't want this, as every build wants perma-Regen, and many want high or perma-Protection and this represents 150 point of Concentration stats (which otherwise requires a lot of toughness (Minstrel and Giver) or wasted stats (Harrier)).
+* [Renewal][item: renewal sigil] - Probably the second best sigil overall, but this is exactly the kind of sigil I was thinking of when I said 'it depends on your build and playstyle'.  
+Something like a Scrapper can proc this basically off cooldown if they want to - or just accidentally proc it very often just by doing their usual actions and not have to think about this at all.  
+I don't get as much use out of it on Herald though because I rarely swap legend or weapon and when I do I'm usually already at full health (or at least very close). It's a bit of free healing sometimes but it's never when I really need it, I just use it because there's really not any better options available (unless you're able to proc [Sigil of Blood][item: blood sigil] frequently).  
+Some people use both a superior and a major version as they'll both proc on each weapon swap, but I don't see much point: It's a rare build indeed that doesn't benefit more from the extra boon duration from [Concentration][item: concentration sigil] more than the small heal of the major version of this sigil.
+* [Energy][item: energy sigil] - Just like [Sigil of Renewal][item: renewal sigil] but if you're playing a build that likes to dodge hands but doesn't have as much endurance as you'd like (but could proc this often enough to be worth it) then this could be right up your alley.  
+If you can use the extra endurance, the extra dodges you get from this will probably save you from much more damage than a [Sigil of Renewal][item: renewal sigil] sigil will heal.
+I could see people using this on Scrapper if they don't want to to pick [Adrenal Implant][trait: adrenal implant], or on Soulbeast instead of [Renewal][item: renewal sigil] (especially if they are free to weapon swap frequently (i.e. just have axe & warhorn - no longbow or greatsword)).
+* [Blood][item: blood sigil] - It's an alternative to [Sigil of Renewal][item: renewal sigil] if you have a long-range damage source you can use frequently, and are using mostly Magi gear to proc it consistently. If you *do* meet those requirements though, it's a plausible alternative (if you're not weapon swapping frequently, then this provides more overall healing and might be at more useful times).
+* [Transference][item: transference sigil] - Like [Monk runes][item: monk rune], this doesn't help your kiting so much as just save you from having to make more gear. A [Transference][item: transference sigil] and [Concentration][item: concentration sigil] combo is pretty common in heal supports these days, and nobody will mind at all if you want to use those weapons for hand-kiting too.
+* [Water][item: water sigil] - Like [Sigil of Transference][item: transference sigil], this doesn't help you but helps your teammates.  
+Can be handy when you feel you've already got more than enough sustain and a long-range weapon to proc this near your teammates. (In these situations, it'll give more heals to your team than [Transference][item: transference sigil] since most builds can't heal your teammates most of the time (I's say Tempest is probably the only outlier, as the staff autos splash heals basically all the time).)
+
+Generally with sigils I'd say you can't go far wrong with [Concentration][item: concentration sigil] and [Renewal][item: renewal sigil] but there's a few other options you can pick if your build and playstyle can make better use of them.
+
 ### Obtaining Gear
 Before anything else, it's worth making it clear that exotic gear is absolutely perfectly good for hand-kiting as you really don't gain much from trying to min/max a few stat points here and there. (Whether you survive or not won't depend on having 20 extra healing power or whatever, and as I've mentioned before, there isn't much benefit to optimisation as you can't really *kite harder* (at least, not like how a DPS player benefits from optimising because they can just *do more DPS*).)  
 If you want to use ascended stuff because you've got it lying around then by all means feel free to - just don't worry about trying to gear up an ascended set of gear to feel like a 'proper' hand-kiter. That's daft and a huge waste of gold and time.  
@@ -437,23 +455,29 @@ Other stat combinations' trinkets can be cheaply crafted or bought so aren't wor
 [location: cathedral of eternal radiance]: https://wiki.guildwars2.com/wiki/Cathedral_of_Eternal_Radiance
 [location: malchor's leap]: https://wiki.guildwars2.com/wiki/Malchor%27s_Leap
 
+[item: blood sigil]: https://wiki.guildwars2.com/wiki/Superior_Sigil_of_Blood
 [item: chest of experimental armor]: https://wiki.guildwars2.com/wiki/Chest_of_Experimental_Armor
+[item: concentration sigil]: https://wiki.guildwars2.com/wiki/Superior_Sigil_of_Concentration
 [item: crest of the magi]: https://wiki.guildwars2.com/wiki/Crest_of_the_Magi
 [item: defender rune]: https://wiki.guildwars2.com/wiki/Superior_Rune_of_the_Defender
 [item: dolyak rune]: https://wiki.guildwars2.com/wiki/Superior_Rune_of_the_Dolyak
 [item: durability rune]: https://wiki.guildwars2.com/wiki/Superior_Rune_of_Durability
 [item: dwayna rune]: https://wiki.guildwars2.com/wiki/Superior_Rune_of_Dwayna
 [item: earth rune]: https://wiki.guildwars2.com/wiki/Superior_Rune_of_the_Earth
+[item: energy sigil]: https://wiki.guildwars2.com/wiki/Superior_Sigil_of_Energy
 [item: flock rune]: https://wiki.guildwars2.com/wiki/Superior_Rune_of_the_Flock
 [item: freshwater pearl]: https://wiki.guildwars2.com/wiki/Freshwater_Pearl
 [item: grove rune]: https://wiki.guildwars2.com/wiki/Superior_Rune_of_the_Grove
 [item: herald rune]: https://wiki.guildwars2.com/wiki/Superior_Rune_of_the_Herald
 [item: monk rune]: https://wiki.guildwars2.com/wiki/Superior_Rune_of_the_Monk
 [item: rebirth rune]: https://wiki.guildwars2.com/wiki/Superior_Rune_of_the_Rebirth
+[item: renewal sigil]: https://wiki.guildwars2.com/wiki/Superior_Sigil_of_Renewal
 [item: sanctuary rune]: https://wiki.guildwars2.com/wiki/Superior_Rune_of_Sanctuary
 [item: scrapper rune]: https://wiki.guildwars2.com/wiki/Superior_Rune_of_the_Scrapper
+[item: transference sigil]: https://wiki.guildwars2.com/wiki/Superior_Sigil_of_Transference
 [item: triumphant armor box]: https://wiki.guildwars2.com/wiki/Triumphant_Armor_Box
 [item: water rune]: https://wiki.guildwars2.com/wiki/Superior_Rune_of_the_Water
+[item: water sigil]: https://wiki.guildwars2.com/wiki/Superior_Sigil_of_Water
 [item: winterberry]: https://wiki.guildwars2.com/wiki/Fresh_Winterberry
 
 [collection: envoy armor 1 - experimental armor]: https://wiki.guildwars2.com/wiki/Envoy_Armor_I:_Experimental_Armor

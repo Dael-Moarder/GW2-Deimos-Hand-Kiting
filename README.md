@@ -280,7 +280,7 @@ My general plystyle for Herald is:
 5. Now that you've presumably used your [Infuse Light][skill: Infuse Light] to 5-stack the next batch of hands after [Mind Crush][mechanic: mind crush], you can consume your F2 and elite skills ([True Nature (dragon)][skill: true nature - dragon] and [Chaotic Release][skill: chaotic release] respectively) to keep their passive buffs for a bit longer (due to [Draconic Echo][trait: draconic echo]) before swapping back to Ventari and staff.
 6. Now you're back to step 1 and can repeat this same cycle over and over without issue (the cooldowns for your weapon and legend swap, as well as [Crystal Hibernation][skill: crystal hibernation] and [Infuse Light][skill: infuse light] will be available by the next time you need them).
 
-Tips for executing this playstyle comfortably:
+General tips for this build and playstyle:
 
 * When stacking hands on staff + Ventari, I would generally just stand and count the hands as they spawn, then after the 4th hand hit [Natural Harmony][skill: natural harmony] and move off the stack just after the 5th hand spawns (the heal then procs and I got back to basically full health immediately after the 5th hand tick).
 	* You could dodge roll off the stack at the 5th tick - like other hand-kiting builds often want to do (e.g. Soulbeast), but I rarely feel the need to, so I rarely do.  
@@ -288,6 +288,14 @@ Tips for executing this playstyle comfortably:
 * When you're on shield + Glint, you can use shield 4 ([Envoy of Exuberance][skill: envoy of exuberance]) when you have a quiet moment for a little bit of extra self-healing and Protection uptime (you'll have the energy available for this, so it's just free healing and Protection).
 * When you're on shield + Glint, you could theoretically spend as much time as you can in Glint before swapping back, as it gives you more Protection uptime, but I find getting back to Ventari sooner and building up energy in that legend to be safer and more forgiving (I believe extra energy for [Natural Harmony][skill: natural harmony] is more valuable than extra Protection uptime).
 * When you're on shield + Glint, you may have taken a fair bit of damage from the hands you were blocking on top of, so you might want to spread out a couple of hands or activate [Infuse Light][skill: infuse light] early and walk back onto a recent 5-stack to fully heal yourself. This should be a bit of a last resort really, as if you do this too soon, you won't have anything left to stack new the hands until you've gotten back to staff + Ventari.
+* [Facet of Nature - Centaur][skill: facet of nature - centaur] plus [Steadfast Rejuvenation][trait: steadfast rejuvenation] heals for roughly the same amount as [Natural Harmony][skill: natural harmony] would for the same amount of energy, so it's got a good heals/energy ratio.  
+However, I find it safer to avoid using this (unless I'm basically at the 100 energy cap) as spending energy on this is often 'wasted' by me already being at full health (due to using [Warding Rift][skill: warding rift], standing in Saul's heal banner, etc.) and it's good to have a healthy reserve of energy for if things go awry somehow (e.g. maybe you're fine but your teammates are struggling because their main healer went down with the green without most of them, so you suddenly need a bunch of extra energy to sink into healing them too).
+* When I'm on particularly tanky gear (e.g. mostly Minstrel stats) I often don't bother using [Warding Rift][skill: warding rift] for 5-stacking, as I've learned that generally I don't need to.  
+If I'm at roughly full health and energy, maybe with the heal banner on me, then just one [Natural Harmony][skill: natural harmony] will usually patch up all the damage anyway, so there's really no benefit in me using the block when I could instead be saving it for something else that comes up (like using it to 5-stack while I've sent the tablet away to heal my teammates - that's something I find very useful).
+* Don't worry about having to use [Natural Harmony][skill: natural harmony] rarely for some stacks and multiple times for others - that's normal.  
+It only costs 20 energy, which is 4 seconds' worth, and hands appear on 10 second cycles, so you can use it twice on every hand stack and *still* end up ahead (20 + 20 + 5 (to reposition the tablet each new stack) = 45 (so you'll still net 5 energy anyway)).
+* On stacks where you use [Warding Rift][skill: warding rift] to block the 4th and 5th ticks, you'll likely not have to use [Natural Harmony][skill: natural harmony] at all, and then you've gained 35 energy during that stack of hands, so you can afford one or two more [Natural Harmonys][skill: natural harmony] on the next stack when you won't have [Warding Rift][skill: warding rift].  
+The ability to do 2 big heals per stack, or 1 (or 0) for one stack with [Warding Rift][skill: warding rift] and then 3 or 4 big heals for the next stack is what makes Herald such a good kiter. This flexibility is great so don't worry if you feel like you're needing a lot of [Natural Harmony][skill: natural harmony] uses on some stacks - you're probably still generating enough energy to keep on top of things.
 
 # General Tips
 
@@ -450,6 +458,7 @@ Other stat combinations' trinkets can be cheaply crafted or bought so aren't wor
 [skill: envoy of exuberance]: https://wiki.guildwars2.com/wiki/Envoy_of_Exuberance
 [skill: facet of chaos]: https://wiki.guildwars2.com/wiki/Facet_of_Chaos
 [skill: facet of light]: https://wiki.guildwars2.com/wiki/Facet_of_Light
+[skill: facet of nature - centaur]: https://wiki.guildwars2.com/wiki/Facet_of_Nature—Centaur
 [skill: facet of nature - dragon]: https://wiki.guildwars2.com/wiki/Facet_of_Nature—Dragon
 [skill: facet of nature]: https://wiki.guildwars2.com/wiki/Facet_of_Nature
 [skill: gear shield]: https://wiki.guildwars2.com/wiki/Gear_Shield

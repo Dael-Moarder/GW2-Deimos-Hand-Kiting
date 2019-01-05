@@ -354,6 +354,20 @@ Can be handy when you feel you've already got more than enough sustain and a lon
 
 Generally with sigils I'd say you can't go far wrong with [Concentration][item: concentration sigil] and [Renewal][item: renewal sigil] but there's a few other options you can pick if your build and playstyle can make better use of them.
 
+### Consumables
+You'll want damage-reduction food and boon-duration utility (unless you're already maxxed on boon duration, but even then you can probably use the utility to free up some gear for some Magi pieces or something).
+
+#### Damage-reduction food
+Generally, [Plate of Mussels Gnashblade][item->food: plate of mussels gnashblade] or [Oysters with Pesto Sauce][item->food: oysters with pesto sauce] are what you'll want, as concentration and healing power are the main stats most builds can always use more of.  
+Personally, I like to use [Bowl of Mussel Soup][item->food: bowl of mussel soup] when I'm on Herald with mostly Minstrel gear, as I've usually got enough boon duration and healing power to comfortably survive everything already. So I just go for a bit of extra vitality because if I'm going to die it's because I've messed up some things significantly along the way, and then the extra 700 health is more likely to catch me before I go down than going from 193% to 198% boon duration, or a tiny increase in healing power (when I already drastically outheal every damage source already).
+
+My general rule of thumb is that if your build could do with more Protection uptime, then go for boon duration, if the build could do with more sustain or has more passive than active heals, then go for healing power, and if you've got more than enough of each them go for vitality for more buffer for mistakes.
+
+#### Utilities
+This is dead easy, go with whatever gives you the most boon duration.  
+If you're in mostly Magi gear, that's probably [Peppermint Oil][item->utility: peppermint oil].  
+If you're in mostly Minstrel gear it's probably [Magnanimous Maintenance Oil][item->utility: magnanimous maintenance oil].
+
 ### Obtaining Gear
 Before anything else, it's worth making it clear that exotic gear is absolutely perfectly good for hand-kiting as you really don't gain much from trying to min/max a few stat points here and there. (Whether you survive or not won't depend on having 20 extra healing power or whatever, and as I've mentioned before, there isn't much benefit to optimisation as you can't really *kite harder* (at least, not like how a DPS player benefits from optimising because they can just *do more DPS*).)  
 If you want to use ascended stuff because you've got it lying around then by all means feel free to - just don't worry about trying to gear up an ascended set of gear to feel like a 'proper' hand-kiter. That's daft and a huge waste of gold and time.  
@@ -466,6 +480,9 @@ Other stat combinations' trinkets can be cheaply crafted or bought so aren't wor
 [item: earth rune]: https://wiki.guildwars2.com/wiki/Superior_Rune_of_the_Earth
 [item: energy sigil]: https://wiki.guildwars2.com/wiki/Superior_Sigil_of_Energy
 [item: flock rune]: https://wiki.guildwars2.com/wiki/Superior_Rune_of_the_Flock
+[item->food: plate of mussels gnashblade]: https://wiki.guildwars2.com/wiki/Plate_of_Mussels_Gnashblade
+[item->food: oysters with pesto sauce]: https://wiki.guildwars2.com/wiki/Oysters_with_Pesto_Sauce
+[item->food: bowl of mussel soup]: https://wiki.guildwars2.com/wiki/Bowl_of_Mussel_Soup
 [item: freshwater pearl]: https://wiki.guildwars2.com/wiki/Freshwater_Pearl
 [item: grove rune]: https://wiki.guildwars2.com/wiki/Superior_Rune_of_the_Grove
 [item: herald rune]: https://wiki.guildwars2.com/wiki/Superior_Rune_of_the_Herald
@@ -479,5 +496,7 @@ Other stat combinations' trinkets can be cheaply crafted or bought so aren't wor
 [item: water rune]: https://wiki.guildwars2.com/wiki/Superior_Rune_of_the_Water
 [item: water sigil]: https://wiki.guildwars2.com/wiki/Superior_Sigil_of_Water
 [item: winterberry]: https://wiki.guildwars2.com/wiki/Fresh_Winterberry
+[item->utility: magnanimous maintenance oil]: https://wiki.guildwars2.com/wiki/Magnanimous_Maintenance_Oil
+[item->utility: peppermint oil]: https://wiki.guildwars2.com/wiki/Peppermint_Oil
 
 [collection: envoy armor 1 - experimental armor]: https://wiki.guildwars2.com/wiki/Envoy_Armor_I:_Experimental_Armor

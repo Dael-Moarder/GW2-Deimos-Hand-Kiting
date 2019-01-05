@@ -350,20 +350,20 @@ I've not yet tested these, so I can't say whether these are actually worthwhile 
 ### Sigils
 Since sigils are generally offensive in nature, there's not many that can help you, and those that do often depend heavily on the build and how you play it. (For example 'on hit' or 'on crit' sigils can either be great or useless from one build and player to the next.)
 
-* [Concentration][item: concentration sigil] - The overall best sigil for kiters in my opinion. I struggle to think of a build that won't want this, as every build wants perma-Regen, and many want high or perma-Protection and this represents 150 point of Concentration stats (which otherwise requires a lot of toughness (Minstrel and Giver) or wasted stats (Harrier)).
-* [Renewal][item: renewal sigil] - Probably the second best sigil overall, but this is exactly the kind of sigil I was thinking of when I said 'it depends on your build and playstyle'.  
+* [Concentration][item->sigil: concentration] - The overall best sigil for kiters in my opinion. I struggle to think of a build that won't want this, as every build wants perma-Regen, and many want high or perma-Protection and this represents 150 point of Concentration stats (which otherwise requires a lot of toughness (Minstrel and Giver) or wasted stats (Harrier)).
+* [Renewal][item->sigil: renewal] - Probably the second best sigil overall, but this is exactly the kind of sigil I was thinking of when I said 'it depends on your build and playstyle'.  
 Something like a Scrapper can proc this basically off cooldown if they want to - or just accidentally proc it very often just by doing their usual actions and not have to think about this at all.  
-I don't get as much use out of it on Herald though because I rarely swap legend or weapon and when I do I'm usually already at full health (or at least very close). It's a bit of free healing sometimes but it's never when I really need it, I just use it because there's really not any better options available (unless you're able to proc [Sigil of Blood][item: blood sigil] frequently).  
-Some people use both a superior and a major version as they'll both proc on each weapon swap, but I don't see much point: It's a rare build indeed that doesn't benefit more from the extra boon duration from [Concentration][item: concentration sigil] more than the small heal of the major version of this sigil.
-* [Energy][item: energy sigil] - Just like [Sigil of Renewal][item: renewal sigil] but if you're playing a build that likes to dodge hands but doesn't have as much endurance as you'd like (but could proc this often enough to be worth it) then this could be right up your alley.  
-If you can use the extra endurance, the extra dodges you get from this will probably save you from much more damage than a [Sigil of Renewal][item: renewal sigil] sigil will heal.
-I could see people using this on Scrapper if they don't want to to pick [Adrenal Implant][trait: adrenal implant], or on Soulbeast instead of [Renewal][item: renewal sigil] (especially if they are free to weapon swap frequently (i.e. just have axe & warhorn - no longbow or greatsword)).
-* [Blood][item: blood sigil] - It's an alternative to [Sigil of Renewal][item: renewal sigil] if you have a long-range damage source you can use frequently, and are using mostly Magi gear to proc it consistently. If you *do* meet those requirements though, it's a plausible alternative (if you're not weapon swapping frequently, then this provides more overall healing and might be at more useful times).
-* [Transference][item: transference sigil] - Like [Monk runes][item->rune: monk], this doesn't help your kiting so much as just save you from having to make more gear. A [Transference][item: transference sigil] and [Concentration][item: concentration sigil] combo is pretty common in heal supports these days, and nobody will mind at all if you want to use those weapons for hand-kiting too.
-* [Water][item: water sigil] - Like [Sigil of Transference][item: transference sigil], this doesn't help you but helps your teammates.  
-Can be handy when you feel you've already got more than enough sustain and a long-range weapon to proc this near your teammates. (In these situations, it'll give more heals to your team than [Transference][item: transference sigil] since most builds can't heal your teammates most of the time (I's say Tempest is probably the only outlier, as the staff autos splash heals basically all the time).)
+I don't get as much use out of it on Herald though because I rarely swap legend or weapon and when I do I'm usually already at full health (or at least very close). It's a bit of free healing sometimes but it's never when I really need it, I just use it because there's really not any better options available (unless you're able to proc [Sigil of Blood][item->sigil: blood] frequently).  
+Some people use both a superior and a major version as they'll both proc on each weapon swap, but I don't see much point: It's a rare build indeed that doesn't benefit more from the extra boon duration from [Concentration][item->sigil: concentration] more than the small heal of the major version of this sigil.
+* [Energy][item->sigil: energy] - Just like [Sigil of Renewal][item->sigil: renewal] but if you're playing a build that likes to dodge hands but doesn't have as much endurance as you'd like (but could proc this often enough to be worth it) then this could be right up your alley.  
+If you can use the extra endurance, the extra dodges you get from this will probably save you from much more damage than a [Sigil of Renewal][item->sigil: renewal] sigil will heal.
+I could see people using this on Scrapper if they don't want to to pick [Adrenal Implant][trait: adrenal implant], or on Soulbeast instead of [Renewal][item->sigil: renewal] (especially if they are free to weapon swap frequently (i.e. just have axe & warhorn - no longbow or greatsword)).
+* [Blood][item->sigil: blood] - It's an alternative to [Sigil of Renewal][item->sigil: renewal] if you have a long-range damage source you can use frequently, and are using mostly Magi gear to proc it consistently. If you *do* meet those requirements though, it's a plausible alternative (if you're not weapon swapping frequently, then this provides more overall healing and might be at more useful times).
+* [Transference][item->sigil: transference] - Like [Monk runes][item->rune: monk], this doesn't help your kiting so much as just save you from having to make more gear. A [Transference][item->sigil: transference] and [Concentration][item->sigil: concentration] combo is pretty common in heal supports these days, and nobody will mind at all if you want to use those weapons for hand-kiting too.
+* [Water][item->sigil: water] - Like [Sigil of Transference][item->sigil: transference], this doesn't help you but helps your teammates.  
+Can be handy when you feel you've already got more than enough sustain and a long-range weapon to proc this near your teammates. (In these situations, it'll give more heals to your team than [Transference][item->sigil: transference] since most builds can't heal your teammates most of the time (I's say Tempest is probably the only outlier, as the staff autos splash heals basically all the time).)
 
-Generally with sigils I'd say you can't go far wrong with [Concentration][item: concentration sigil] and [Renewal][item: renewal sigil] but there's a few other options you can pick if your build and playstyle can make better use of them.
+Generally with sigils I'd say you can't go far wrong with [Concentration][item->sigil: concentration] and [Renewal][item->sigil: renewal] but there's a few other options you can pick if your build and playstyle can make better use of them.
 
 ### Consumables
 You'll want damage-reduction food and boon-duration utility (unless you're already maxxed on boon duration, but even then you can probably use the utility to free up some gear for some Magi pieces or something).
@@ -481,16 +481,16 @@ Other stat combinations' trinkets can be cheaply crafted or bought so aren't wor
 [location: cathedral of eternal radiance]: https://wiki.guildwars2.com/wiki/Cathedral_of_Eternal_Radiance
 [location: malchor's leap]: https://wiki.guildwars2.com/wiki/Malchor%27s_Leap
 
-[item: blood sigil]: https://wiki.guildwars2.com/wiki/Superior_Sigil_of_Blood
+[item->sigil: blood]: https://wiki.guildwars2.com/wiki/Superior_Sigil_of_Blood
 [item: chest of experimental armor]: https://wiki.guildwars2.com/wiki/Chest_of_Experimental_Armor
-[item: concentration sigil]: https://wiki.guildwars2.com/wiki/Superior_Sigil_of_Concentration
+[item->sigil: concentration]: https://wiki.guildwars2.com/wiki/Superior_Sigil_of_Concentration
 [item: crest of the magi]: https://wiki.guildwars2.com/wiki/Crest_of_the_Magi
 [item->rune: defender]: https://wiki.guildwars2.com/wiki/Superior_Rune_of_the_Defender
 [item->rune: dolyak]: https://wiki.guildwars2.com/wiki/Superior_Rune_of_the_Dolyak
 [item->rune: durability]: https://wiki.guildwars2.com/wiki/Superior_Rune_of_Durability
 [item->rune: dwayna]: https://wiki.guildwars2.com/wiki/Superior_Rune_of_Dwayna
 [item->rune: earth]: https://wiki.guildwars2.com/wiki/Superior_Rune_of_the_Earth
-[item: energy sigil]: https://wiki.guildwars2.com/wiki/Superior_Sigil_of_Energy
+[item->sigil: energy]: https://wiki.guildwars2.com/wiki/Superior_Sigil_of_Energy
 [item->rune: flock]: https://wiki.guildwars2.com/wiki/Superior_Rune_of_the_Flock
 [item->food: plate of mussels gnashblade]: https://wiki.guildwars2.com/wiki/Plate_of_Mussels_Gnashblade
 [item->food: oysters with pesto sauce]: https://wiki.guildwars2.com/wiki/Oysters_with_Pesto_Sauce
@@ -500,13 +500,13 @@ Other stat combinations' trinkets can be cheaply crafted or bought so aren't wor
 [item->rune: herald]: https://wiki.guildwars2.com/wiki/Superior_Rune_of_the_Herald
 [item->rune: monk]: https://wiki.guildwars2.com/wiki/Superior_Rune_of_the_Monk
 [item->rune: rebirth]: https://wiki.guildwars2.com/wiki/Superior_Rune_of_the_Rebirth
-[item: renewal sigil]: https://wiki.guildwars2.com/wiki/Superior_Sigil_of_Renewal
+[item->sigil: renewal]: https://wiki.guildwars2.com/wiki/Superior_Sigil_of_Renewal
 [item->rune: sanctuary]: https://wiki.guildwars2.com/wiki/Superior_Rune_of_Sanctuary
 [item->rune: scrapper]: https://wiki.guildwars2.com/wiki/Superior_Rune_of_the_Scrapper
-[item: transference sigil]: https://wiki.guildwars2.com/wiki/Superior_Sigil_of_Transference
+[item->sigil: transference]: https://wiki.guildwars2.com/wiki/Superior_Sigil_of_Transference
 [item: triumphant armor box]: https://wiki.guildwars2.com/wiki/Triumphant_Armor_Box
 [item->rune: water]: https://wiki.guildwars2.com/wiki/Superior_Rune_of_the_Water
-[item: water sigil]: https://wiki.guildwars2.com/wiki/Superior_Sigil_of_Water
+[item->sigil: water]: https://wiki.guildwars2.com/wiki/Superior_Sigil_of_Water
 [item: winterberry]: https://wiki.guildwars2.com/wiki/Fresh_Winterberry
 [item->utility: magnanimous maintenance oil]: https://wiki.guildwars2.com/wiki/Magnanimous_Maintenance_Oil
 [item->utility: peppermint oil]: https://wiki.guildwars2.com/wiki/Peppermint_Oil

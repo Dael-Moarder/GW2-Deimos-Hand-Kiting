@@ -481,34 +481,34 @@ Other stat combinations' trinkets can be cheaply crafted or bought so aren't wor
 [location: cathedral of eternal radiance]: https://wiki.guildwars2.com/wiki/Cathedral_of_Eternal_Radiance
 [location: malchor's leap]: https://wiki.guildwars2.com/wiki/Malchor%27s_Leap
 
-[item->sigil: blood]: https://wiki.guildwars2.com/wiki/Superior_Sigil_of_Blood
-[item: chest of experimental armor]: https://wiki.guildwars2.com/wiki/Chest_of_Experimental_Armor
-[item->sigil: concentration]: https://wiki.guildwars2.com/wiki/Superior_Sigil_of_Concentration
-[item: crest of the magi]: https://wiki.guildwars2.com/wiki/Crest_of_the_Magi
+[item->food: bowl of mussel soup]: https://wiki.guildwars2.com/wiki/Bowl_of_Mussel_Soup
+[item->food: oysters with pesto sauce]: https://wiki.guildwars2.com/wiki/Oysters_with_Pesto_Sauce
+[item->food: plate of mussels gnashblade]: https://wiki.guildwars2.com/wiki/Plate_of_Mussels_Gnashblade
 [item->rune: defender]: https://wiki.guildwars2.com/wiki/Superior_Rune_of_the_Defender
 [item->rune: dolyak]: https://wiki.guildwars2.com/wiki/Superior_Rune_of_the_Dolyak
 [item->rune: durability]: https://wiki.guildwars2.com/wiki/Superior_Rune_of_Durability
 [item->rune: dwayna]: https://wiki.guildwars2.com/wiki/Superior_Rune_of_Dwayna
 [item->rune: earth]: https://wiki.guildwars2.com/wiki/Superior_Rune_of_the_Earth
-[item->sigil: energy]: https://wiki.guildwars2.com/wiki/Superior_Sigil_of_Energy
 [item->rune: flock]: https://wiki.guildwars2.com/wiki/Superior_Rune_of_the_Flock
-[item->food: plate of mussels gnashblade]: https://wiki.guildwars2.com/wiki/Plate_of_Mussels_Gnashblade
-[item->food: oysters with pesto sauce]: https://wiki.guildwars2.com/wiki/Oysters_with_Pesto_Sauce
-[item->food: bowl of mussel soup]: https://wiki.guildwars2.com/wiki/Bowl_of_Mussel_Soup
-[item: freshwater pearl]: https://wiki.guildwars2.com/wiki/Freshwater_Pearl
 [item->rune: grove]: https://wiki.guildwars2.com/wiki/Superior_Rune_of_the_Grove
 [item->rune: herald]: https://wiki.guildwars2.com/wiki/Superior_Rune_of_the_Herald
 [item->rune: monk]: https://wiki.guildwars2.com/wiki/Superior_Rune_of_the_Monk
 [item->rune: rebirth]: https://wiki.guildwars2.com/wiki/Superior_Rune_of_the_Rebirth
-[item->sigil: renewal]: https://wiki.guildwars2.com/wiki/Superior_Sigil_of_Renewal
 [item->rune: sanctuary]: https://wiki.guildwars2.com/wiki/Superior_Rune_of_Sanctuary
 [item->rune: scrapper]: https://wiki.guildwars2.com/wiki/Superior_Rune_of_the_Scrapper
-[item->sigil: transference]: https://wiki.guildwars2.com/wiki/Superior_Sigil_of_Transference
-[item: triumphant armor box]: https://wiki.guildwars2.com/wiki/Triumphant_Armor_Box
 [item->rune: water]: https://wiki.guildwars2.com/wiki/Superior_Rune_of_the_Water
+[item->sigil: blood]: https://wiki.guildwars2.com/wiki/Superior_Sigil_of_Blood
+[item->sigil: concentration]: https://wiki.guildwars2.com/wiki/Superior_Sigil_of_Concentration
+[item->sigil: energy]: https://wiki.guildwars2.com/wiki/Superior_Sigil_of_Energy
+[item->sigil: renewal]: https://wiki.guildwars2.com/wiki/Superior_Sigil_of_Renewal
+[item->sigil: transference]: https://wiki.guildwars2.com/wiki/Superior_Sigil_of_Transference
 [item->sigil: water]: https://wiki.guildwars2.com/wiki/Superior_Sigil_of_Water
-[item: winterberry]: https://wiki.guildwars2.com/wiki/Fresh_Winterberry
 [item->utility: magnanimous maintenance oil]: https://wiki.guildwars2.com/wiki/Magnanimous_Maintenance_Oil
 [item->utility: peppermint oil]: https://wiki.guildwars2.com/wiki/Peppermint_Oil
+[item: chest of experimental armor]: https://wiki.guildwars2.com/wiki/Chest_of_Experimental_Armor
+[item: crest of the magi]: https://wiki.guildwars2.com/wiki/Crest_of_the_Magi
+[item: freshwater pearl]: https://wiki.guildwars2.com/wiki/Freshwater_Pearl
+[item: triumphant armor box]: https://wiki.guildwars2.com/wiki/Triumphant_Armor_Box
+[item: winterberry]: https://wiki.guildwars2.com/wiki/Fresh_Winterberry
 
 [collection: envoy armor 1 - experimental armor]: https://wiki.guildwars2.com/wiki/Envoy_Armor_I:_Experimental_Armor

@@ -188,15 +188,15 @@ I've done almost all my kiting on Herald and would recommend it as the go-to opt
 ### Gear
 
 ### Traits
-Salvation 1-3-2 ([Nourishing Roots <img src="https://wiki.guildwars2.com/images/2/2c/Nourishing_Roots.png" width=16>][trait: nourishing roots],
-[Invoking Harmony <img src="https://wiki.guildwars2.com/images/e/ec/Invoking_Harmony.png" width=16>][trait: invoking harmony]
-and [Natural Abundance <img src="https://wiki.guildwars2.com/images/b/be/Natural_Abundance.png" width=16>][trait: natural abundance])  
-Retribution 2-2-3 ([Close Quarters <img src="https://wiki.guildwars2.com/images/4/43/Close_Quarters.png" width=16>][trait: close quarters],
-[Retaliatory Evasion <img src="https://wiki.guildwars2.com/images/8/8f/Retaliatory_Evasion.png" width=16>][trait: retaliatory evasion]
-and [Steadfast Rejuvenation <img src="https://wiki.guildwars2.com/images/b/bf/Steadfast_Rejuvenation.png" width=16>][trait: steadfast rejuvenation])  
-Herald 1-3-2 ([Elder's Respite <img src="https://wiki.guildwars2.com/images/d/d1/Elder%27s_Force.png" width=16>][trait: elder's respite],
-[Hardening Persistence <img src="https://wiki.guildwars2.com/images/0/0f/Hardening_Persistence.png" width=16>][trait: hardening persistence]
-and [Draconic Echo <img src="https://wiki.guildwars2.com/images/1/10/Radiant_Revival.png" width=16>][trait: draconic echo])
+Salvation 1-3-2 ([Nourishing Roots <img src="images/icons/traits/nourishing-roots.png" width=16>][trait: nourishing roots],
+[Invoking Harmony <img src="images/icons/traits/invoking-harmony.png" width=16>][trait: invoking harmony]
+and [Natural Abundance <img src="images/icons/traits/natural-abundance.png" width=16>][trait: natural abundance])  
+Retribution 2-2-3 ([Close Quarters <img src="images/icons/traits/close-quarters.png" width=16>][trait: close quarters],
+[Retaliatory Evasion <img src="images/icons/traits/retaliatory-evasion.png" width=16>][trait: retaliatory evasion]
+and [Steadfast Rejuvenation <img src="images/icons/traits/steadfast-rejuvenation.png" width=16>][trait: steadfast rejuvenation])  
+Herald 1-3-2 ([Elder's Respite <img src="images/icons/traits/elder%27s-force.png" width=16>][trait: elder's respite],
+[Hardening Persistence <img src="images/icons/traits/hardening-persistence.png" width=16>][trait: hardening persistence]
+and [Draconic Echo <img src="images/icons/traits/radiant-revival.png" width=16>][trait: draconic echo])
 
 #### Explanation of Traits
 

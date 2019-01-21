@@ -172,7 +172,12 @@ My point here was just that it's kind of a perfect storm of bad things, so don't
 
 Other than that situation, there isn't really anything to worry about with the oils as they'll probably never go to you, and even when they do you'll usually be fine to just move out of them and handle [Mind Crush][mechanic: mind crush] if they happen around the same time.
 
-## Prides
+## Prides & Greeds
+Throughout the pre-event and the main fight, you'll find large and small ghosts (called Prides and Greeds respectively) spawning at the edges of the platform and walking straight to Saul to take off some of his health.  
+Greeds only remove 1% of his max health, so they can be easily outhealed and basically ignored unless you're on CM (as you won't be able to heal Saul at all on CM - so they'll need cleaving down whenever possible).  
+Prides are larger and take off a hefty 25% of his max health if they make contact, so the squad will want to try and always kill these before they reach him.  
+The main group will handle these, but some hand-kiting builds can provide a little bit of support in various ways (for example, a Scrapper with [Morter Kit][skill: mortar kit] can use [Endothermic Shell][skill: endothermic shell] to apply a healthy amount of chill - drastically slowing their advance from >1500 range away).  
+You can help cripple/chill/immob them during the pre-event, and once you're comfortable with your standard responsibilities in the main fight (not dying and kiting the hands well) then you can look over your build and see if there's anything you can do to help a bit with these when there's nothing else really going on that needs your attention (look for something with long range, else you'll only be able to help with prides that spawn very close to you).
 
 # Builds
 Every profession can kite hands successfully - they've all got tools to sustain themselves and survive [Mind Crush][mechanic: mind crush], but as with basically everything else - some professions have mechanics or design philosophies that better lend themselves to this than others.  
